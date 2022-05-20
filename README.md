@@ -73,4 +73,4 @@ Database file "file_manager.sql" project root folder.
 
 If you want to import database using migration ,you can run this command after create blank database in your system : "php artisan migrate"
 
-For install dependancy and package run this command : composer install
+For install dependency and package run this command : composer install
