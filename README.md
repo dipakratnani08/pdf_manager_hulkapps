@@ -69,7 +69,7 @@ Project URL(Welcome page) : http://localhost/laravel/public/
 
 Project URL : http://localhost/laravel/public/file-upload
 
-From project root folder you can take database file , name is "file_manager.sql"
+Database file "file_manager.sql" project root folder.
 
 If you want to import database using migration ,you can run this command after create blank database in your system : "php artisan migrate"
 
